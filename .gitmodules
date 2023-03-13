@@ -1,0 +1,3 @@
+[submodule "wlo-employeeManager-FE"]
+	path = wlo-employeeManager-FE
+	url = ./wlo-employeeManager-FE
